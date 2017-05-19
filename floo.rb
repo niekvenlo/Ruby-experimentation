@@ -16,3 +16,5 @@ end
 
 f = Bloo.new
 puts f.na
+
+puts "Edited"
